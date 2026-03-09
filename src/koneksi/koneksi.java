@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 
 public class koneksi {
 
-    private static final String URL = "jdbc:mysql://localhost:3306/db_akademik_2311500777";
+    private static final String URL = "jdbc:mysql://localhost:3306/db_akademik_2311500173";
     private static final String USER = "root";
     private static final String PASSWORD = "";
 
