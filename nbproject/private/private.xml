@@ -3,10 +3,19 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/rizky/OneDrive/Documents/tugas-ipbo/src/koneksi/koneksi.java</file>
-            <file>file:/C:/Users/rizky/OneDrive/Documents/tugas-ipbo/src/sistemipbo/Sistemipbo.java</file>
-            <file>file:/C:/Users/rizky/OneDrive/Documents/tugas-ipbo/src/view/entri_mahasiswa.java</file>
+            <file>file:/C:/Users/rizky/OneDrive/Documents/tugas-ipbo/src/DAO/DAO_Interface.java</file>
+            <file>file:/C:/Users/rizky/OneDrive/Documents/tugas-ipbo/src/DAO/DAO_Mahasiswa.java</file>
+            <file>file:/C:/Users/rizky/OneDrive/Documents/tugas-ipbo/src/DAO/DAO_Matakuliah.java</file>
+            <file>file:/C:/Users/rizky/OneDrive/Documents/tugas-ipbo/src/model/varMahasiswa.java</file>
+            <file>file:/C:/Users/rizky/OneDrive/Documents/tugas-ipbo/src/model/varMatakuliah.java</file>
             <file>file:/C:/Users/rizky/OneDrive/Documents/tugas-ipbo/src/view/home.java</file>
+            <file>file:/C:/Users/rizky/OneDrive/Documents/tugas-ipbo/src/view/frmMatakuliah.java</file>
+            <file>file:/C:/Users/rizky/OneDrive/Documents/tugas-ipbo/src/Controller/Controller_Mahasiswa.java</file>
+            <file>file:/C:/Users/rizky/OneDrive/Documents/tugas-ipbo/src/koneksi/koneksi.java</file>
+            <file>file:/C:/Users/rizky/OneDrive/Documents/tugas-ipbo/src/view/entri_mahasiswa.java</file>
+            <file>file:/C:/Users/rizky/OneDrive/Documents/tugas-ipbo/src/view/frmMahasiswa.java</file>
+            <file>file:/C:/Users/rizky/OneDrive/Documents/tugas-ipbo/src/sistemipbo/Sistemipbo.java</file>
+            <file>file:/C:/Users/rizky/OneDrive/Documents/tugas-ipbo/src/Controller/Controller_Matakuliah.java</file>
         </group>
     </open-files>
 </project-private>
